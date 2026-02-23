@@ -40,3 +40,4 @@ squeue -u $USER
 - `Dry lab -> Spider and Slurm`
 - `Dry lab -> Linux and Shell Basics`
 - `Data management -> Project Structure`
+- `Practical team -> Patient visits`

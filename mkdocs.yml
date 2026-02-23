@@ -39,4 +39,10 @@ nav:
       - Storage and transfer: data/storage-and-transfer.md
       - GDPR and lab practices: data/gdpr-and-lab-practices.md
   - Wet lab: wet-lab.md
+  - Practical team:
+      - Overview: practical-team.md
+      - Patient visits: practical/patient-visits.md
+      - Visit data capture: practical/visit-data-capture.md
+      - Sample transport and handover: practical/sample-transport-and-handover.md
+      - Escalation and incident log: practical/escalation-and-incidents.md
   - Glossary: glossary.md
