@@ -1,4 +1,8 @@
 site_name: Lab Documentation
+site_url: https://holstegelab.github.io/lab-docs/
+repo_url: https://github.com/holstegelab/lab-docs
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   features:
@@ -10,9 +14,6 @@ theme:
     - search.highlight
     - content.action.edit
     - content.action.view
-
-repo_url: https://github.com/<YOUR_ORG>/lab-docs
-edit_uri: edit/main/docs/
 
 plugins:
   - search
