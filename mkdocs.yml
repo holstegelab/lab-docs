@@ -1,0 +1,41 @@
+site_name: Lab Documentation
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+
+repo_url: https://github.com/<YOUR_ORG>/lab-docs
+edit_uri: edit/main/docs/
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Start here: start-here.md
+  - Dry lab:
+      - Overview: dry-lab.md
+      - Linux and shell basics: dry/linux-shell-basics.md
+      - Spider and Slurm: dry/spider-and-slurm.md
+      - Environments and containers: dry/environments-and-containers.md
+      - tmux session management: dry/tmux.md
+      - Git and GitHub: dry/git-and-github.md
+  - Data management:
+      - Overview: data-management.md
+      - Project structure and naming: data/project-structure.md
+      - Storage and transfer: data/storage-and-transfer.md
+      - GDPR and lab practices: data/gdpr-and-lab-practices.md
+  - Wet lab: wet-lab.md
+  - Glossary: glossary.md
