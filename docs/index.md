@@ -4,11 +4,11 @@ This documentation covers lab infrastructure usage, dry-lab workflows, and data 
 
 ## Main sections
 
-- **Start here**: first login, access model, and quick safety rules.
-- **Dry lab**: Linux basics, Slurm on Spider, environments, containers, tmux, and Git workflow.
-- **Data management**: project structure, storage and transfer, GDPR constraints, and good practices.
-- **Wet lab**: proteomics SOPs and sample handling workflows.
-- **Practical team**: placeholders for patient visit workflows, field data capture, and handover logistics.
+- **[Start here](start-here.md)**: first login, access model, and quick safety rules.
+- **[Dry lab](dry-lab.md)**: Linux basics, Slurm on Spider, environments, containers, tmux, and Git workflow.
+- **[Data management](data-management.md)**: project structure, storage and transfer, GDPR constraints, and good practices.
+- **[Wet lab](wet-lab.md)**: proteomics SOPs and sample handling workflows.
+- **[Practical team](practical-team.md)**: placeholders for patient visit workflows, field data capture, and handover logistics.
 
 ## Scope
 
